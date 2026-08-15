@@ -8,7 +8,7 @@ Foi utilizado o Google Flow (Nano Banana 2 Lite e Omni Flash) para a geração d
 
 ## 🧐 Processo de Criação
 Para a criação do vídeo, pensei em um tema que trabalhei em sala de aula no componente curricular de Ciências, assim o vídeo foi criado a partir do prompt:  
-Suponha que você seja um professor de Ciências de uma turma de 6º ano. Ajuste a linguagem para o perfil selecionado, estudantes de 6º ano. Elabore um vídeo realista e curto sobre o bioma mata atlântica. Gere de forma gratuita o vídeo no formato mp4.
+Suponha que você seja um professor de Ciências de uma turma de 7º ano. Ajuste a linguagem para o perfil selecionado, estudantes de 7º ano. Elabore um vídeo realista e curto sobre o bioma mata atlântica. Gere de forma gratuita o vídeo no formato mp4.
 
 ## 🚀 Resultados
 Como resultado, foi obtido o seguinte vídeo:
