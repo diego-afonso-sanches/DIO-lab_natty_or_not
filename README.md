@@ -12,7 +12,7 @@ Suponha que você seja um professor de Ciências de uma turma de 6º ano. Ajuste
 
 ## 🚀 Resultados
 Como resultado, foi obtido o seguinte vídeo:
-![Vídeo](video.mp4)
+<video src="https://github.com/user-attachments/assets/3c78f3ff-eaec-4337-b785-82ecc2af6aeb" controls width="100%"></video>
 
 O vídeo também pode ser acessado por este [link](https://labs.google/fx/tools/flow/shared/video/ff66971e-8da2-46ef-8553-0c95240020fc).
 
