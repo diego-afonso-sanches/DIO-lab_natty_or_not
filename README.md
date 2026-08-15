@@ -12,7 +12,9 @@ Suponha que você seja um professor de Ciências de uma turma de 6º ano. Ajuste
 
 ## 🚀 Resultados
 Como resultado, foi obtido o seguinte vídeo:
-<video src="https://labs.google/fx/tools/flow/shared/video/ff66971e-8da2-46ef-8553-0c95240020fc" controls width="100%"></video>
+![Vídeo](video.mp4)
+
+O vídeo também pode ser acessado por este [link](https://labs.google/fx/tools/flow/shared/video/ff66971e-8da2-46ef-8553-0c95240020fc).
 
 ## 💭 Reflexão 
 No prompt, solicitei que fosse criado um vídeo realista, entretanto, ainda não é tão realista como o esperado.
